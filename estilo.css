@@ -1,0 +1,171 @@
+
+body {
+margin: 0 auto;
+}
+
+Header {
+Background-color:#bbcd9b;
+Color:white;
+text-align: center;
+Padding:5px;
+Margen-bottom:5px;
+text-size: small;
+}
+
+#cuerpo{
+Display:flex;
+font-family: 'Source Code Pro', monospace;
+Padding: 20px;
+Background-color:#bbcd9b;
+}
+
+#parte1 {
+Background-color: #ffeab6;
+Float:left;
+Padding: 30px;
+Text-align:center;
+width: 25%;
+font-weight: 200;
+Font-size: x-small;
+}
+
+#parte2{
+Background-color: #f29401;
+Float:right;
+Padding: 10px;
+Text-align:center;
+width: 75%;
+}
+
+#cuerpo2 {
+Display:flex;
+font-family: 'Source Code Pro', monospace;
+Padding: 20px;
+Background-color:#bbcd9b;
+}
+
+
+#parte1p2 {
+Background-color: #ffeab6;
+Float:left;
+Padding: 30px;
+Text-align:center;
+width: 25%;
+font-weight: 200;
+Font-size: x-small;
+}
+
+#parte2p2 {
+Background-color: #f29401;
+Float:left;
+Padding: 30px;
+Text-align:left;
+width: 75%;
+font-weight: 200;
+Font-size: x-small;
+}
+
+#parte3p2 {
+Background-color: #f29401;
+Float:left;
+Padding: 30px;
+Text-align:right;
+width: 75%;
+font-weight: 200;
+Font-size: x-small;
+}
+
+#parte4p2 {
+Background-color: #ffeab6;
+Float:left;
+Padding: 30px;
+Text-align:center;
+width: 25%;
+font-weight: 200;
+Font-size: x-small;
+}
+
+#parte5p2 {
+Background-color: #ffeab6;
+Float
+Padding: 100px;
+Text-align:center;
+width: 33%;
+}
+
+#parte6p2 {
+Background-color: #f29401;
+Float
+Padding: 100px;
+Text-align:center;
+width: 33%;
+font-weight: 200;
+Font-size: x-small;
+}
+
+.cuerpo1 {
+Text-aling:left;
+Font-size: large;
+}
+
+.cuerpo2 {
+Text-aling:center;
+Padding-right:50px;
+Padding-left:50px;
+Font-size: x-large;
+font-weight: bold;
+}
+
+.cuerpo3 {
+Text-aling:left;
+Padding-right:5px;
+Padding-left:175px;
+Font-size: medium;
+Float:left;
+width: 400px;
+font-weight: 400;
+}
+
+.cuerpo4 {
+Text-aling:left;
+Padding-right:175px;
+Font-size: medium;
+Float:right;
+width: 400px;
+font-weight: 400;
+}
+
+.cuerpo5 {
+Text-aling:center;
+Padding-right:50px;
+Padding-left:50px;
+Font-size: small;
+}
+
+.cuerpo6 {
+Text-aling:left;
+Padding-right:175px;
+Font-size: medium;
+font-weight: 400;
+}
+
+h1 {
+Font-family: 'Roboto Slab', serif;
+Font-size:30px;
+Color:White
+}
+
+h2 {
+Font-family: 'Roboto Slab', serif;
+Font-size:30px;
+Color:black
+}
+
+
+Footer {
+Background-color:#bbcd9b;
+Font-family: 'Roboto Slab', serif;
+Color:white;
+Text-align: center;
+Padding:15px;
+clear:both;
